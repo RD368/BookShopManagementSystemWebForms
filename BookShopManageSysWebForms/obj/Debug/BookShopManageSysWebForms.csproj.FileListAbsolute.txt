@@ -1,0 +1,6 @@
+c:\users\ramdinesh_mypc\documents\visual studio 2013\Projects\BookShopManageSysWebForms\BookShopManageSysWebForms\bin\BookShopManageSysWebForms.dll.config
+c:\users\ramdinesh_mypc\documents\visual studio 2013\Projects\BookShopManageSysWebForms\BookShopManageSysWebForms\bin\BookShopManageSysWebForms.dll
+c:\users\ramdinesh_mypc\documents\visual studio 2013\Projects\BookShopManageSysWebForms\BookShopManageSysWebForms\bin\BookShopManageSysWebForms.pdb
+c:\users\ramdinesh_mypc\documents\visual studio 2013\Projects\BookShopManageSysWebForms\BookShopManageSysWebForms\obj\Debug\BookShopManageSysWebForms.csprojResolveAssemblyReference.cache
+c:\users\ramdinesh_mypc\documents\visual studio 2013\Projects\BookShopManageSysWebForms\BookShopManageSysWebForms\obj\Debug\BookShopManageSysWebForms.dll
+c:\users\ramdinesh_mypc\documents\visual studio 2013\Projects\BookShopManageSysWebForms\BookShopManageSysWebForms\obj\Debug\BookShopManageSysWebForms.pdb
